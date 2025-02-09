@@ -16,8 +16,9 @@ dynamics today, but could affect extrapolation back in time if the stellar body 
 
 Notebooks
 ---------
-For reproducing the main results of the paper, we have data available in the ``out_stars`` folder. 
-Due to heavy size of star data, we uploaded only one example of a simulation. Other data are available upon request.
+For reproducing the main results of the paper, we have data available in the ``out_stars`` folder and on h5 file format. 
+Due to heavy size of star data, we reduced the sample of stars to 1000, rather than the 10000 used 
+on the paper. Results are not affected. Other data are available upon request.
 To use those data, we prepared the jupyter notebook:
 
 * ``uldm_stars_notebook.ipynb``: code related to reproduce the main figures of our work.
